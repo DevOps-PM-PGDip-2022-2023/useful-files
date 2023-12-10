@@ -1,5 +1,5 @@
-# Ponyos-Watercolour-Art-Classes
-pgdip_devops_prj_man_group_3
+# Name of Project
+
 
 # Table of Contents
 Preamble
